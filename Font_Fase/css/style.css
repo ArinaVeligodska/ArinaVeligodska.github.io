@@ -1,0 +1,63 @@
+/*/////////MAP
+//////////#BODY
+/////////#
+*/
+
+/* #BODY*/
+
+*{
+	box-sizing: border-box;
+}
+
+body {
+margin: 50px; 
+padding:  20px;
+}
+
+h1 .capton {
+	font-family: Georgia, serif; 
+	
+}
+
+.main_content{
+	font-family: Roboto, sans-serif;
+	font-weight: 100;
+	font-size: 12px;
+	text-indent: 1.5em; 
+    text-align: justify;
+    line-height: 20px;
+
+}
+
+p:first-letter {
+	font-family: Times New Roman, serif;
+	font-size: 40px;
+	float: left;
+	display: inline-block;
+	height: 66px;
+	width: 56px;
+
+
+}
+
+form{
+
+	background-color: transparent;
+	font-family: Roboto, sans-serif, #FF6347;
+	border: 3px solid #FF6347;
+	display: inline-block;
+	margin: 0px;
+
+}
+
+input {
+	background-color: transparent;
+	height: 40px;
+	width: 150px;
+	color: #FF6347;
+	border: none;
+	padding: 0px;
+	
+}
+
+

@@ -1,0 +1,55 @@
+*, *:after, *:before{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	transition: all .1s ease-in;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	font-size: 100%;
+	font-family: sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 10px;
+}
+
+.text_1{
+	text-align: center;
+	background: #494E55;
+	min-height: 100%;
+}
+
+.header {
+	background: #A0A1A4;
+	color: #F98383;
+	padding:1em 0;
+	margin-bottom: 2em;
+}
+
+ul {
+	max-width:960px;
+	margin: auto;
+	text-align: : left;
+	margin-bottom: 3px;
+	color: #F7F6F5;
+	padding: 0px;
+	
+	}
+
+.footer{
+	background: #A0A1A4;
+	color: #F98383;
+	padding:1em 0;
+	margin-bottom: 2em;
+
+	}
+
+.dinner_list{
+	max-width: 960px;
+	margin: auto;
+	text-align: center;
+}	
